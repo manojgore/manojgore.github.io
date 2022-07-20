@@ -12,11 +12,11 @@ const exp = [
     desp:"<li>Work as Full Stack Developer</li> <li>It is an farming sector ferm</li> <li>Created a Android applications</li>",
   },
   {
-    title: "Student Developer",
+    title: "Reactjs Developer",
     cardImage: "assets/images/experience-page/gsoc.png",
-    place: "Google Summer Of Code",
-    time: "(Mar - Aug, 2019)",
-    desp: "<li>Worked with MOZILLA as a part of Google Summer Of Code.</li><li>Worked on Extension Activity Monitor which is a privileged extension for Firefox that uses the activityLog API (privileged API) to monitor the activities of the other installed extensions.</li><li>The activityLog API listens for logs from other installed extensions.</li>",
+    place: "Pysber inc",
+    time: "(Mar, 2022 - July, 2022)",
+    desp: "<li>Worked on ReactJs for developing single page android applications.</li><li>Worked on Wordpress development.</li><li>Integrating Email SMTP API with wordpress</li>",
   },
 ];
 
