@@ -9,7 +9,7 @@ const exp = [
     cardImage: "assets/images/experience-page/flipkart.jpg",
     place: "Krushi Darbar",
     time: "(May, 2020 - August, 2021)",
-    desp: "<li>Work as Full Stack Developer</li> <li>It is an farming sector ferm</li> <li>Created a Android application</li>",
+    desp:"<li>Work as Full Stack Developer</li> <li>It is an farming sector ferm</li> <li>Created a Android applications</li>",
   },
   {
     title: "Student Developer",
